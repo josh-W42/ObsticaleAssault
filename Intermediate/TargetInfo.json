@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ObsticaleAssault",
+			"Path": "..\\Source\\ObsticaleAssault.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ObsticaleAssaultEditor",
+			"Path": "..\\Source\\ObsticaleAssaultEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
