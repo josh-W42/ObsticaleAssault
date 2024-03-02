@@ -11,8 +11,11 @@
     <None Include="..\..\Source\ObsticaleAssaultEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <None Include="..\..\.vsconfig" />
     <None Include="..\..\Link to Source Assets.txt" />
+    <None Include="..\..\README.md" />
     <None Include="..\..\SCK_Casual01.png" />
     <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">

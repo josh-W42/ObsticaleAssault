@@ -109,8 +109,11 @@
     <None Include="..\..\ObsticaleAssault.uproject"/>
     <None Include="..\..\Source\ObsticaleAssault.Target.cs"/>
     <None Include="..\..\Source\ObsticaleAssaultEditor.Target.cs"/>
+    <None Include="..\..\.gitattributes"/>
+    <None Include="..\..\.gitignore"/>
     <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Link to Source Assets.txt"/>
+    <None Include="..\..\README.md"/>
     <None Include="..\..\SCK_Casual01.png"/>
     <None Include="..\..\UpgradeLog.htm"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
