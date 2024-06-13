@@ -7,7 +7,9 @@
 			"files": [
 				"C:/Users/wilso/Documents/Unreal Projects/ObsticaleAssault/Content/Main.umap",
 				"C:/Users/wilso/Documents/Unreal Projects/ObsticaleAssault/Content/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/wilso/Documents/Unreal Projects/ObsticaleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset"
+				"C:/Users/wilso/Documents/Unreal Projects/ObsticaleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/wilso/Documents/Unreal Projects/ObsticaleAssault/Content/BP_MovingPlatform.uasset",
+				"C:/Users/wilso/Documents/Unreal Projects/ObsticaleAssault/Content/BP_PushingCube.uasset"
 			]
 		}
 	]
